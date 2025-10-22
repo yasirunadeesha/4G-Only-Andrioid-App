@@ -136,3 +136,6 @@ If you adopt Apache‑2.0, add a `LICENSE` file with the full text and a short h
 - Material Components for Android
 
 
+## Apk
+
+- https://github.com/yasirunadeesha/4G-Only-Andrioid-App/blob/main/4G%20Only.apk
