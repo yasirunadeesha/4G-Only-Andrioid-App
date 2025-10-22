@@ -1,9 +1,5 @@
 # 4G-Only-Andrioid-App
 4G Only is a lightweight Android app that quickly opens the hidden Phone Information screen, letting you set LTE-only (4G only) or NR-only (5G only) modes. It doesn’t change radio settings directly—just gives fast access. Features a simple Material UI, clear instructions, and handles blocked or missing pages gracefully.
-## 4G Only — Android Utility App
-4G Only is a lightweight Android app that quickly opens the hidden Phone Information screen, letting you set LTE-only (4G only) or NR-only (5G only) modes. It doesn’t change radio settings directly—just gives fast access. Features a simple Material UI, clear instructions, and handles blocked or missing pages gracefully.
-
-Force your device to open the built‑in Phone Information (RadioInfo) screen and manually set the preferred network mode to LTE‑only (4G Only). This app provides quick access to the hidden system screen where you can pick LTE‑only on supported devices.
 
 ### Highlights
 - Launches the system Phone Information/RadioInfo screen directly
