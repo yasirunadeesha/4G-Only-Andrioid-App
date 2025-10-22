@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._4Gonly" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Force same background for both light and dark -->
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="colorSurface">@color/app_background</item>
+        <item name="android:colorBackground">@color/app_background</item>
+    </style>
+</resources>
